@@ -2,7 +2,7 @@
   "menuItems": [
     {
       "label": "Test",
-      "link": "test"
+      "link": "/test"
     },
     {
       "label": "Home",
