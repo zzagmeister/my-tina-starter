@@ -6,5 +6,7 @@ path: /blog/ssd
 draft: true
 authors:
   - katie-graham
+hero:
+  image: ../images/51RXsBGJhxL._AC_US160_.jpg
 ---
 ## ssd
